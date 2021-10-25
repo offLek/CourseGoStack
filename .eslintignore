@@ -4,3 +4,5 @@ dist
 build
 /src/react-app-env.d.ts
 /src/reportWebVitals.ts
+android
+ios
